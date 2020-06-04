@@ -1,3 +1,9 @@
+### Team Members
+#### Nachimuthu N - 17BCE0211
+#### Allen Biju Thomas - 17BCE0191
+#### Sai Saathvik - 17BCE0012
+#### Sharvan TG - 17BCI0191
+
 # Ensemble Learning Sentiment Analysis
 
 In this project we create an ensemble learning ML model to predict the sentiment (Positive/Negative) of a news article.
