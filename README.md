@@ -26,5 +26,5 @@ It opens the testdata.txt file and classifies the text of the article and displa
 Both outputs will be displayed and can be compared.
 
 ## Steps for executing the project
-First the bbc.py file has to be run so that is will process the bbc dataset and create a labelled dataset which can be used for training out ensemble model
-then the sentiment.py file inside business folder, has to be run, that file will in turn execute the train.py file and classify the document given.
+- First the bbc.py file has to be run so that is will process the bbc dataset and create a labelled dataset which can be used for training out ensemble model
+- Then the sentiment.py file inside business folder, has to be run, that file will in turn execute the train.py file and classify the document given.
