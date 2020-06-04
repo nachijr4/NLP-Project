@@ -25,6 +25,6 @@ This file will show the final prediction for an unseen new article.
 It opens the testdata.txt file and classifies the text of the article and displays the result along with the confident. In order to test this output we will also run the text through the textblob pipeline.
 Both outputs will be displayed and can be compared.
 
-###Steps for executing the project
+## Steps for executing the project
 First the bbc.py file has to be run so that is will process the bbc dataset and create a labelled dataset which can be used for training out ensemble model
 then the sentiment.py file inside business folder, has to be run, that file will in turn execute the train.py file and classify the document given.
